@@ -1,2 +1,1 @@
-# leroywan-gmail.com
-blockchain-fun
+# Let's build a simple blockchain~
